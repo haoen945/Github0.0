@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import csv
 
-
+0.0
 G1 = nx.Graph()  # 建立：空的 無向圖
 pos={}
 with open('TPE.csv', newline='') as csvfile:
